@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1698693021 source:/home/pilename/mySpace/TicTacToe/TicTacToe/main.cpp
+	<iostream>
+	"gameBoard.h"
+	"xPlayer.h"
+	"yPlayer.h"
+	<string.h>
+
+1698693301 /home/pilename/mySpace/TicTacToe/TicTacToe/include/gameBoard.h
+	<iostream>
+
+1698692010 /home/pilename/mySpace/TicTacToe/TicTacToe/include/xPlayer.h
+	<iostream>
+	<string>
+
+1698692142 /home/pilename/mySpace/TicTacToe/TicTacToe/include/yPlayer.h
+	<string>
+	<iostream>
+
